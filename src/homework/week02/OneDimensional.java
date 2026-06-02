@@ -53,7 +53,7 @@ public class OneDimensional {
         for(int i=0;i<scores.length;i++){
             sum += scores[i];
         }
-        System.out.printf("scores sum is %d",sum);
+        System.out.printf("scores sum is %d%n",sum);
     }
 
     public static void main(String[] args) {
