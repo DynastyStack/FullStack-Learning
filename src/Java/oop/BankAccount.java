@@ -1,4 +1,4 @@
-package Java.OOP;
+package Java.oop;
 
 public class BankAccount {
 

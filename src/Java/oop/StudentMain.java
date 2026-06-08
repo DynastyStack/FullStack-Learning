@@ -1,4 +1,4 @@
-package Java.OOP;
+package Java.oop;
 
 public class StudentMain {
     public static void main(String[] args) {

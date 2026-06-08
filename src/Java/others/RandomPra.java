@@ -1,4 +1,4 @@
-package Java.Others;
+package Java.others;
 
 import java.util.Scanner;
 

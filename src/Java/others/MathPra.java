@@ -1,4 +1,4 @@
-package Java.Others;
+package Java.others;
 
 public class MathPra {
     public static void main(String[] args) {

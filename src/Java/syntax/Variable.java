@@ -1,4 +1,4 @@
-package Java.Syntax;
+package Java.syntax;
 
 public class Variable {
     public static void variable01() {
