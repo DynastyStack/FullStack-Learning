@@ -1,6 +1,6 @@
 package Java.OOP;
 
-public class Student0603 {
+public class Example {
 
     String name;
     int age;

@@ -1,4 +1,4 @@
-package Java.syntax;
+package Java.Syntax;
 
 public class Operator {
     public static void calculate01() {

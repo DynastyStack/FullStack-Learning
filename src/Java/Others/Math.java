@@ -1,22 +1,22 @@
-package Java.others;
+package Java.Others;
 
-public class MathPractice {
+public class Math {
     public static void main(String[] args) {
 
-        System.out.println(Math.abs(-369));
+        System.out.println(java.lang.Math.abs(-369));
 
         int[] arr = {10, 50, 90, 20, 30};
         int max = arr[0];
         int min = arr[0];
         for (int i = 0; i < arr.length; i++) {
-            max = Math.max(max, arr[i]);
-            min = Math.min(min, arr[i]);
+            max = java.lang.Math.max(max, arr[i]);
+            min = java.lang.Math.min(min, arr[i]);
         }
         System.out.println("最大值:" + max + " 最小值:" + min);
 
 
         System.out.println("Welcome to Russian Roulette");
-        int dice =(int)(Math.random()*6)+1;
+        int dice =(int)(java.lang.Math.random()*6)+1;
 
         if(dice==4){
             System.out.println("you die");
@@ -26,7 +26,7 @@ public class MathPractice {
 
         System.out.println(dice);
 
-        int rand = (int)(Math.random()*100)+1;
+        int rand = (int)(java.lang.Math.random()*100)+1;
         System.out.println(rand);
 
 

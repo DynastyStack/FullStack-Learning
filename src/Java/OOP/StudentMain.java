@@ -1,6 +1,6 @@
 package Java.OOP;
 
-public class Student2 {
+public class StudentMain {
     public static void main(String[] args) {
 
         Student s = new Student("pikachu",66, 99, "NTU");

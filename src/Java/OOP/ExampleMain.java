@@ -1,9 +1,9 @@
 package Java.OOP;
 
-public class StudentClassTest0603 {
+public class ExampleMain {
     public static void main(String[] args){
 
-        Student0603 s = new Student0603();
+        Example s = new Example();
 
         s.name = "bitch";
         s.age = 25;

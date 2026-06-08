@@ -1,8 +1,8 @@
-package Java.others;
+package Java.Others;
 
 import java.util.Scanner;
 
-public class RandomPractice {
+public class Random {
 
     public static void guessNumber() {
         Scanner in = new Scanner(System.in);

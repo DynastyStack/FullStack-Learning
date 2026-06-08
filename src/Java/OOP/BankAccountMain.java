@@ -2,7 +2,7 @@ package Java.OOP;
 
 import java.util.Scanner;
 
-public class MainBankAccount {
+public class BankAccountMain {
 
     static Scanner in = new Scanner(System.in);
 
