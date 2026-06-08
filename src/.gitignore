@@ -1,9 +1,16 @@
-*.class
-out/
-bin/
+# IntelliJ
 .idea/
 *.iml
-.classpath
-.project
-.settings/
+out/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# macOS
 .DS_Store
+
+# Git
+*.log
